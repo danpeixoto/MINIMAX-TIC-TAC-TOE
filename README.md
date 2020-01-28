@@ -4,6 +4,6 @@
 I followed the  pseudocode from [wikipidia](https://en.wikipedia.org/wiki/Minimax). It is a really interesting algorithm, works around an assumption that the opponent(you) plays the best move. The algorithm will run over all the possibilities of the game and return the max value it beign 1=X , 0=TIE , -1=O. Since it start playing the human has no chance of winning.
 
 You could try to defeat it but I bet that you can't ;D .
-
+### [TRY IT](https://pextre.github.io/MINIMAX-TIC-TAC-TOE/)
 ### Here is it working !
 ![](tic_tac_toe.gif)
